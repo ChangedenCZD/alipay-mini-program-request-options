@@ -2,6 +2,13 @@
 > 基于[支付宝小程序请求Api](https://docs.alipay.com/mini/api/owycmh)的二次封装
 <br>
 
+## NPM
+[
+![NPM version](https://img.shields.io/npm/v/alipay-mini-program-request-options.svg)
+![NPM download](https://img.shields.io/npm/dm/alipay-mini-program-request-options.svg)
+![NPM download](https://img.shields.io/npm/dw/alipay-mini-program-request-options.svg)
+](https://www.npmjs.com/package/alipay-mini-program-request-options)
+
 ## Usage
 ```js
 const { Methods, Options } = require("alipay-mini-program-request-options");
